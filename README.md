@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to my GitHub.
+Engineer at morning, mad scientist at night, fan of embedded development anytime :metal:
 
 
 
